@@ -7,7 +7,7 @@
 - 🌱 I'm constantly learning and exploring new technologies to stay up-to-date with the latest industry trends.
 - 👯 I enjoy collaborating with others and believe in the power of teamwork to achieve remarkable results.
 
-- 📫 You can reach me via [my LinkedIn acccount](linked.com/in/fionaloy) or (fionaloy@protonmail.com).
+- 📫 You can reach me via [my LinkedIn acccount](linked.com/in/fionaloy) or [my email: fionaloy@protonmail.com](fionaloy@protonmail.com).
 - 🌐 Check out my portfolio and projects at [my personal website](https://fiona00000.github.io/).
 
 <!--
