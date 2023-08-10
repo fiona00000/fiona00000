@@ -1,14 +1,14 @@
 ### 👋 Hi there, I'm Fiona Leung
 
-🎓 I graduated from an engineering degree and currently pursuing a computer programming diploma.
-💻 I'm a skilled programmer with 1.5 years of experience, focusing on database, expecially SQL and MongoDB with data visualization tools Tableau. I also eagar to learn more about web development.
-🚀 Passionate about solving complex problems and creating efficient solutions to deliver exceptional user experiences.
+- 🎓 I graduated from an engineering degree and currently pursuing a computer programming diploma.
+- 💻 I'm a skilled programmer with 1.5 years of experience, focusing on database, expecially SQL and MongoDB with data visualization tools Tableau. I also eagar to learn more about web development.
+- 🚀 Passionate about solving complex problems and creating efficient solutions to deliver exceptional user experiences.
 
-🌱 I'm constantly learning and exploring new technologies to stay up-to-date with the latest industry trends.
-👯 I enjoy collaborating with others and believe in the power of teamwork to achieve remarkable results.
+- 🌱 I'm constantly learning and exploring new technologies to stay up-to-date with the latest industry trends.
+- 👯 I enjoy collaborating with others and believe in the power of teamwork to achieve remarkable results.
 
-📫 You can reach me via [my LinkedIn acccount](linked.com/in/fionaloy) or (fionaloy@protonmail.com).
-🌐 Check out my portfolio and projects at [my personal website](https://fiona00000.github.io/).
+- 📫 You can reach me via [my LinkedIn acccount](linked.com/in/fionaloy) or (fionaloy@protonmail.com).
+- 🌐 Check out my portfolio and projects at [my personal website](https://fiona00000.github.io/).
 
 <!--
 **fiona00000/fiona00000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
